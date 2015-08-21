@@ -7,7 +7,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 WC requires at least: 2.0.20
 WC tested up to: 2.3.5
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Futurelytics is easy to use ecommerce retention automation platform.
 
