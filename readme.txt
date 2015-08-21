@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Futurelytics
+Contributors: futurelytics
 Tags: email marketing, retention automation, marketing
 Requires at least: 3.5
 Tested up to: 4.1.1
